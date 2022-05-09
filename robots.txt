@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://run.notion.vip/running_page/sitemap/sitemap-index.xml
+Host: https://run.notion.vip
