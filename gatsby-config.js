@@ -8,7 +8,7 @@ module.exports = {
     navLinks: [
       {
         name: 'Blog',
-        url: 'https://notion.rayburn.vip/',
+        url: 'https://blog.rayburn.vip//',
       },
       {
         name: 'About',
